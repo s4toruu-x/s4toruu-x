@@ -19,6 +19,6 @@ This is my main personal project, hosted live at:
 
 - 🧩 The entire platform is themed around the *Blue Lock* universe, with anime-inspired logic and UI elements.
 
-- 🔄 Track your investments live — player values update dynamically. 
+- 🔄 Track your investments live — player values update upon new chapter release. 
 
 - 📱 Fully functional on both desktop and mobile devices.
