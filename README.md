@@ -6,8 +6,7 @@ This is my main personal project, hosted live at:
 **Blue Lock Investing** is a fantasy-style football investment simulation platform inspired by the *Blue Lock* anime and manga universe.
 
 ### 🛠️ Built with:
-- React + TypeScript + Vite + SWC + Tailwind CSS     
+- React + TypeScript + Vite + SWC
+- Tailwind CSS
 - Hosted on Cloudflare Pages
 - Supabase (as the backend/API)
-
-Feel free to explore the project and follow along as it evolves!
