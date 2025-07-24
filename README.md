@@ -1,16 +1,13 @@
-## Hi there 👋
+## 🚀 Main Project — [Blue Lock Investing](https://bl-investing-web.pages.dev/)
 
-<!--
-**s4toruu-x/s4toruu-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is my main personal project, hosted live at:  
+🔗 [https://bl-investing-web.pages.dev/](https://bl-investing-web.pages.dev/)
 
-Here are some ideas to get you started:
+**Blue Lock Investing** is a fantasy-style football investment simulation platform inspired by the *Blue Lock* anime and manga universe.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Built with:
+- React + TypeScript + Vite + SWC + Tailwind CSS     
+- Hosted on Cloudflare Pages
+- Supabase (as the backend/API)
+
+Feel free to explore the project and follow along as it evolves!
