@@ -12,7 +12,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/angular" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=angular" alt="angular" width="40" height="40"/></a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/></a>  
-  <a href="https://threejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/mrdoob/three.js/c69db34ef86ac3d708ea939f1f41591373f61b37/icon.png" alt="threejs" width="40" height="40" /></a>  
+  <a href="https://threejs.org" target="_blank" rel="noreferrer"><img src="https://skills.syvixor.com/api/icons?perline=15&i=threejs" alt="threejs" width="40" height="40" /></a>  
 </p>
 <h3 align="left">Backend:</h3>
 <p align="left">
