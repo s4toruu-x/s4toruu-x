@@ -29,7 +29,7 @@
     <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" />
   </a>  
   <a href="https://threejs.org" target="_blank" rel="noreferrer">
-    <img src="https://skills.syvixor.com/api/icons?perline=15&i=threejs" alt="threejs" width="40" height="40" />
+    <img src="https://skills.syvixor.com/api/icons?perline=15&i=threejs" alt="threejs" width="40" />
   </a>  
 </p>
 <h3 align="left">Backend:</h3>
