@@ -6,15 +6,17 @@ type Props = {
   description: string;
   icon: string;
   variant?: "primary" | "secondary" | "support";
+  iconClassName?: string;
 };
 
 const base =
-  "flex items-center gap-4 p-4 rounded-xl transition duration-200 hover:-translate-y-1 hover:shadow-lg";
+  "flex items-center gap-4 p-4 rounded-2xl border transition duration-200 hover:-translate-y-1 backdrop-blur-sm";
 
 const variants = {
-  primary: "bg-gradient-to-r from-indigo-500 to-cyan-500 text-white shadow-lg",
-  secondary: "bg-white/5 text-white hover:bg-white/10",
-  support: "bg-yellow-400 text-black font-medium",
+  primary: "bg-white/5 border-blue-400/20 text-white hover:bg-white/10",
+  secondary: "bg-white/5 border-white/10 text-white hover:bg-white/10",
+  support:
+    "bg-[#13C3FF]/90 border-white/10 text-black font-medium shadow-lg shadow-[#13C3FF]/10",
 };
 
 const LinkCard: FC<Props> = ({
@@ -23,6 +25,7 @@ const LinkCard: FC<Props> = ({
   description,
   icon,
   variant = "secondary",
+  iconClassName = "w-8 h-8",
 }) => {
   return (
     <a
@@ -31,7 +34,7 @@ const LinkCard: FC<Props> = ({
       rel="noreferrer"
       className={`${base} ${variants[variant]}`}
     >
-      <img src={icon} className="w-8 h-8 object-contain flex-shrink-0" />
+      <img src={icon} className={`${iconClassName} object-contain flex-shrink-0`} />
 
       <div className="flex flex-col">
         <span className="font-semibold leading-tight">{title}</span>
